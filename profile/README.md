@@ -1,18 +1,14 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/angim-dark.svg">
-    <img alt="ANGİM" src="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/angim-light.svg" width="140">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/banner-dark.svg">
+    <img alt="ANGİM, cooperative real estate" src="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/banner-light.svg">
   </picture>
 </p>
 
 <p align="center">
-  Real estate development rooted in cooperative culture.
-</p>
-
-<p align="center">
-  <a href="https://angim.com.tr"><img alt="angim.com.tr" src="https://img.shields.io/badge/angim.com.tr-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <img alt="Ankara, Türkiye" src="https://img.shields.io/badge/Ankara%2C%20T%C3%BCrkiye-000000?style=for-the-badge&logo=googlemaps&logoColor=white">
-  <img alt="Real estate development" src="https://img.shields.io/badge/Real%20estate%20development-000000?style=for-the-badge">
+  <a href="https://angim.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/badges/angim-com-tr-dark.svg"><img alt="angim.com.tr" src="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/badges/angim-com-tr-light.svg" height="28"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/badges/ankara-turkiye-dark.svg"><img alt="Ankara, Türkiye" src="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/badges/ankara-turkiye-light.svg" height="28"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/badges/real-estate-development-dark.svg"><img alt="Real estate development" src="https://raw.githubusercontent.com/angim-as/.github/main/profile/assets/badges/real-estate-development-light.svg" height="28"></picture>
 </p>
 
 ---
